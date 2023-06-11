@@ -1,0 +1,7 @@
+.listImage {
+  height: 200px;
+  width: 200px;
+}
+.greetList {
+  list-style-type: none;
+}
